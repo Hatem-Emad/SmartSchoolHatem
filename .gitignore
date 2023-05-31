@@ -49,6 +49,7 @@ Thumbs.db
 /SmartSchool.Api/.vs/
 /SmartSchool.Api/bin/
 /SmartSchool.Api/obj/
+/SmartSchool.Api/appsettings.json
 obj/**
 bin/**
 *.vside

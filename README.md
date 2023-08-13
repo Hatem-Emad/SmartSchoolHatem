@@ -10,8 +10,8 @@ School management system with 4 Roles ( Admin - Teacher - Parent - Student).
 
 - Admin manages Grade Years, Classrooms, Subjects, Teachers, Parents and Students
 - Teacher takes students attendance, upload material ( videos - docs ), see their schedules and fill his students exam marks
-- Parent see his son grade, Classroom, Schedule, Marks and Absence days. Send Email for complaints.
+- Parent can see his son's grade, Classroom, Schedule, Marks and Absence days. Send Email for complaints.
 - Student checks his Schedule, Classroom, Marks and Absence days
 
-- Every role can forget password, so an email is sent to reset the password. And change password if they are logged in
+- Every role can forget password, so an email is sent to reset their password. And change password if they are logged in
 - Payment integration using Stripe API.
